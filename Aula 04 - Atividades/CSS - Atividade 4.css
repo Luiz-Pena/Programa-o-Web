@@ -1,0 +1,17 @@
+p.primeiro {
+    background-color: darkolivegreen;
+    font-family: 'Gill Sans';
+    font-size: smaller;
+}
+
+p.segundo {
+    background-color: darkslateblue;
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+}
+
+p.terceiro {
+    background-color: darkkhaki;
+    font-family: monospace;
+    font-size: larger;
+}

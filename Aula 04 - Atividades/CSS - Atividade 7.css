@@ -1,0 +1,12 @@
+p.primeiro {
+    text-decoration: underline;
+}
+
+p.segundo {
+    border-top: 50px;
+    text-decoration: overline;
+}
+
+p.terceiro {
+    text-decoration: line-through;
+}

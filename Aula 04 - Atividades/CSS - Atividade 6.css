@@ -1,0 +1,11 @@
+p.primeiro {
+    text-align: left;
+}
+
+p.segundo {
+    text-align: center;
+}
+
+p.terceiro {
+    text-align: right;
+}
