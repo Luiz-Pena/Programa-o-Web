@@ -1,0 +1,12 @@
+div.primeira {
+    background-color: orange;
+    border: 10px solid green;
+}
+
+div.segunda {
+    background-color: purple;
+    border-bottom: 10px solid yellow;
+    border-top: 10px solid yellow;
+    border-left: 10px solid brown;
+    border-right: 10px solid brown;
+}
