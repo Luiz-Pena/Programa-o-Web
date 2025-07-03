@@ -1,0 +1,25 @@
+body {
+    background-color: yellow;
+    margin: 0px;
+}
+
+.div1 {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+}
+
+.div2 {
+    background-color: red;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 100px;
+    height: 100px;
+}
+
+.div3 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
