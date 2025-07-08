@@ -1,0 +1,63 @@
+.logo {
+    width: 50%; 
+    height: 100%;
+    background-color: black;
+    float: left;
+}
+
+body {
+    margin: 0px
+}
+
+.container {  
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;  
+    align-items: center;        
+}
+
+.caixa {
+    border: 2px solid gray;
+    background-color: white;
+    width: 300px; 
+    height: 30px;
+    border-radius: 10px;
+}
+
+.login {
+    margin-top: 20px;
+    background-color: blue;
+    width: 300px; 
+    height: 30px;
+    border-radius: 10px;
+}
+
+.inscricao {
+    width: 50%; 
+    height: 100%;
+    float: right;
+    box-sizing: border-box;
+    padding: 200px;
+}
+
+.texto_botao {
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h5 {
+    padding: 0px;
+    margin-bottom: 5px;
+}
+
+.pequeno_botao {
+    background-color: blue;
+    width: 20px; 
+    height: 20px;
+    border-radius: 5px;
+}

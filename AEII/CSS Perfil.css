@@ -1,0 +1,81 @@
+body {
+    margin: 0px
+}
+
+.informacoes {
+    width: 33%; 
+    height: 99%;
+    background-color: black;
+    position:fixed;
+    left: 2px;
+    top: 2px;
+    padding-left: 100px;
+}
+
+.publicacoes {
+    width: 60%; 
+    height: 100%;
+    background-color: gray;
+    position: fixed;
+    right: 0px;
+    display: flex;
+    justify-content: center; 
+}
+
+.imagem_perfil {
+    width: 300px; 
+    height: 270px; 
+}
+
+.caixa {
+    border: 2px solid gray;
+    background-color: white;
+    width: 300px; 
+    height: 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+h5, h1 {
+    color: white;
+}
+
+.descricao {
+    width: 300px; 
+    height: 30px;
+}
+
+.post {
+    position: inherit;
+    width: 800px; 
+    height: 500px;
+    background-color: white;
+    margin: 70px;
+}
+
+.imagem_post {
+    width: 150px; 
+    height: 140px; 
+}
+
+.post_perfil {
+    display: flex; 
+    border: 2px solid black;
+    align-items: center;
+}
+
+.conteudo_post {
+    border: 2px solid black;
+    display: flex; 
+    align-items: center;
+    padding: 32px;
+}
+
+.engajamento_post {
+    display: flex; 
+    border: 2px solid black;
+    align-items: center; 
+}
+
